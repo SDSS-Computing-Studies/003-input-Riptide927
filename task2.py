@@ -14,6 +14,6 @@
 
 import math
 radius = input("Radius = ")
-r = int(radius)
+r = float(radius)
 v=r**3*math.pi*4/3
 print(v)
